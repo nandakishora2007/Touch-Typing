@@ -1,3 +1,12 @@
 .button{
-    
+    background-color: white;
+    border: oceanblue 2px solid;
+    color: oceanblue;
+    border-radius: 2px;
+}
+.key{
+    background-color: white;
+    border-color: orange 2px solid;
+    color: orange;
+    border-radius: 2px;
 }
